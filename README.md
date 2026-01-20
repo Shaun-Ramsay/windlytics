@@ -5,3 +5,5 @@ Created by Jacob (Jake) Waldner, Xander Brown, and Shaun Ramsay, otherwise known
 - Setup instructions are in `/Instructions/README.md`
 - Description and Attributions are in `/Codebase/README.md`
 - Slideshow (`.pdf`) is in `/Slides`
+
+[Video Demonstration](https://drive.google.com/file/d/17LFuxF89X0q5S-TlxxCJ0woLY1gaFgLu/view?usp=sharing)
